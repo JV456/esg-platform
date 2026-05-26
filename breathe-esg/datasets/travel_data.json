@@ -1,0 +1,24 @@
+[
+  {
+    "employee_id": "EMP001",
+    "trip_type": "flight",
+    "origin": "MAA",
+    "destination": "DXB",
+    "distance_km": 2940,
+    "travel_class": "economy"
+  },
+  {
+    "employee_id": "EMP002",
+    "trip_type": "hotel",
+    "hotel_nights": 3,
+    "city": "Mumbai"
+  },
+  {
+    "employee_id": "EMP003",
+    "trip_type": "flight",
+    "origin": "BLR",
+    "destination": "BLR",
+    "distance_km": 0,
+    "travel_class": "business"
+  }
+]

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Django
+db.sqlite3
+.env
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+
+# Vite
+.vite/
+
+# Logs
+*.log
